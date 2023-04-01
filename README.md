@@ -1,5 +1,5 @@
 
-<h1 align="center"> <samp> Hi, I'm Laura Huayhua <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
+<h1 align="center"> <samp> Hi, Welcome to my Github Profile <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
 
 <h3> :woman_technologist: About Me </h3>
 
@@ -7,7 +7,7 @@
 - <samp> 📚 I´m studying for a Bachelor´s Degree in Information System at UBA
 - <samp> 🌱 I´m learning more about <b> DevOps | SecOps | Cloud Architecture | Cyber Security | Full Stack Web Development 
 
-<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Technologies </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technologies and tools</h3>
 
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=yellow)
 ![Terraform](http://img.shields.io/badge/-Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=violet)
