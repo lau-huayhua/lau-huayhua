@@ -7,7 +7,8 @@
 - <samp> 📚 I´m studying for a Bachelor´s Degree in Information System at UBA
 - <samp> 🌱 I´m learning more about <b> DevOps | SecOps | Cloud Architecture | Cyber Security | Full Stack Web Development 
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technologies and tools</h3>
+<!-- <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technologies and tools</h3> -->
+<h3>💻 Tech Stack:</h3>
 
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=yellow)
 ![Terraform](http://img.shields.io/badge/-Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=violet)
@@ -34,3 +35,5 @@
 <a href="https://www.linkedin.com/in/laura-huayhua/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Laura%20Huayhua%20Vargas-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:lau.huayhua@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lau.huayhua@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=lau-huayhua&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
